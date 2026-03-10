@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Logo](https://raw.githubusercontent.com/alejob774/DataBaseNormalizer/main/assets/logo.png) <!-- TODO: Add project logo specific to a data normalizer -->
-
 [![GitHub stars](https://img.shields.io/github/stars/alejob774/DataBaseNormalizer?style=for-the-badge)](https://github.com/alejob774/DataBaseNormalizer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/alejob774/DataBaseNormalizer?style=for-the-badge)](https://github.com/alejob774/DataBaseNormalizer/network)
 [![GitHub issues](https://img.shields.io/github/issues/alejob774/DataBaseNormalizer?style=for-the-badge)](https://github.com/alejob774/DataBaseNormalizer/issues)
@@ -28,7 +26,7 @@ DataBaseNormalizer is a robust ETL (Extract, Transform, Load) automation tool de
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](path-to-screenshot-of-main-window) <!-- TODO: Add actual screenshots of the GUI -->
+![Screenshot 1](DataBaseNormalizer/Screenshot 1.png) <!-- TODO: Add actual screenshots of the GUI -->
 ![Screenshot 2](path-to-screenshot-of-processing-view) <!-- TODO: Add screenshot of processing or results -->
 
 ## 🛠️ Tech Stack
