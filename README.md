@@ -175,7 +175,7 @@ This project is currently without an explicit license file. Please contact the a
 ## 📞 Support & Contact
 
 -   🐛 Issues: For bug reports or feature requests, please use [GitHub Issues](https://github.com/alejob774/DataBaseNormalizer/issues).
--   📧 Contact: For any other inquiries, please contact [alejo.b774@example.com](mailto:alejo.b774@example.com). <!-- TODO: Add actual contact email for the author -->
+-   📧 Contact: For any other inquiries, please contact [alejob774@gmail.com](mailto:alejo.b774@example.com). <!-- TODO: Add actual contact email for the author -->
 
 ---
 
@@ -183,6 +183,6 @@ This project is currently without an explicit license file. Please contact the a
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [alejob774](https://github.com/alejob774)
+Made by [alejob774](https://github.com/alejob774)
 
 </div>
