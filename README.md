@@ -26,7 +26,7 @@ DataBaseNormalizer is a robust ETL (Extract, Transform, Load) automation tool de
 
 ## 🖥️ Screenshots
 
-![Alt text](images/Screenshot 1.png)
+![UI](images/Screenshot1.png)
 
 ## 🛠️ Tech Stack
 
