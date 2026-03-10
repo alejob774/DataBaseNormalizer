@@ -26,8 +26,7 @@ DataBaseNormalizer is a robust ETL (Extract, Transform, Load) automation tool de
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](DataBaseNormalizer/Screenshot 1.png) <!-- TODO: Add actual screenshots of the GUI -->
-![Screenshot 2](path-to-screenshot-of-processing-view) <!-- TODO: Add screenshot of processing or results -->
+![Alt text](images/Screenshot 1.png)
 
 ## 🛠️ Tech Stack
 
